@@ -4,13 +4,13 @@ I'm a computer science student with a passion for computer graphics and procedur
 
 ## Featured Repositories
 
-### WebGL Domain Warping Controller
-A react and WebGL project featuring an interface for controlling a recursive domain warping effect. Work in progress.
+### Surfaces - A Recursive Domain Warping Controller
+A React, three.js and WebGL project featuring an interface for controlling a recursive domain warping effect. 
 
 [Repository](https://github.com/palmdrop/webgl-domain-warping-controller)
 
 ### BattleBoids
-A game based on real-time flocking behavior. Developed as a bachelor's thesis project. Work in progress.
+A game based on real-time flocking behavior, developed as a bachelor's thesis project. 
 
 [Repository](https://github.com/palmdrop/BattleBoids)
 
