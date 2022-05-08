@@ -25,7 +25,7 @@ A game based on real-time flocking behavior, developed as a bachelor's thesis pr
 [Browse all repositories.](https://github.com/palmdrop?tab=repositories)
 
 ### Contact and social media
-:computer: [Website](https://palmdrop.zone)
+:computer: [Website](https://palmdrop.site)
 
 :mailbox_with_mail: [Email](mailto:anton@exlex.se)
 
