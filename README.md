@@ -1,19 +1,18 @@
 ![Generative object 1](/img/oo1.png)
 
-I'm a programmer with a passion for computer graphics and procedural generation. 
+I'm a programmer that deal with computer graphics and generative art. 
 Here, I store various projects, config files and web experiments. 
 
 ## Featured Repositories
 
-### Webspace - Personal Website
-An experimental web page built using React and three.js. A playground for digital expression, web design and generative art.
+### Hypervivid - Personal Website
+An experimental web page built using Svelte and three.js. A playground for digital expression, web design and generative art.
 
-[Repository](https://github.com/palmdrop/webspace)
+[Repository](https://github.com/palmdrop/hypervivid)
 
-### Surfaces - A Recursive Domain Warping Controller
-A React, three.js and WebGL project featuring an interface for controlling a recursive domain warping effect. 
-
-[Repository](https://github.com/palmdrop/webgl-domain-warping-controller)
+### Substrates - Node-based shader builder on the web
+A web interface for building GLSL shaders using noise and domain-warping.
+[Repository](https://github.com/palmdrop/substrates)
 
 ### BattleBoids
 A game based on real-time flocking behavior, developed as a bachelor's thesis project. 
