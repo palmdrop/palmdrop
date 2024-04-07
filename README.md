@@ -1,4 +1,4 @@
-![Generative object 1](/img/oo1.png)
+![Evergreen broth - banner image](/img/banner.png)
 
 I'm Anton Hildingsson, or *palmdrop*, swedish developer and generative artist. Feel free to scavange [my repositories](https://github.com/palmdrop?tab=repositories), or shoot me a message through one of the contact channels below.
 
@@ -20,7 +20,7 @@ A web interface for building GLSL shaders using noise and domain-warping.
 
 [Browse all repositories.](https://github.com/palmdrop?tab=repositories)
 
-### :trumpet: Contact :trumpet:
+## :trumpet: Contact :trumpet:
 :moyai: [Website](https://palmdrop.site)
 
 :seedling: [Are.na](https://are.na/palmdrop)
