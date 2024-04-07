@@ -1,31 +1,38 @@
 ![Generative object 1](/img/oo1.png)
 
-I'm a programmer that deal with computer graphics and generative art. 
-Here, I store various projects, config files and web experiments. 
+I'm Anton Hildingsson, or *palmdrop*, swedish developer and generative artist. Feel free to scavange [my repositories](https://github.com/palmdrop?tab=repositories), or shoot me a message through one of the contact channels below.
 
-## Featured Repositories
+## :performing_arts: FEATURED :performing_arts:
 
-### Hypervivid - Personal Website
+### HYPERVIVID - PERSONAL WEBSITE
 An experimental web page built using Svelte and three.js. A playground for digital expression, web design and generative art.
 
 [Repository](https://github.com/palmdrop/hypervivid)
 
-### Substrates - Node-based shader builder on the web
+### EVERGREEN BROTH
+A soup of web design artworks, short stories, (data) poems, etc.
+
+[Repository](https://github.com/palmdrop/evergreen-broth)
+
+### PALMDROP.GITHUB.IO
+Container for miscellaneous projects.
+
+[Repository](https://github.com/palmdrop/palmdrop.github.io)
+
+### SUBSTRATES - NODE-BASED SHADER BUILDER ON THE WEB
 A web interface for building GLSL shaders using noise and domain-warping.
+
 [Repository](https://github.com/palmdrop/substrates)
-
-### BattleBoids
-A game based on real-time flocking behavior, developed as a bachelor's thesis project. 
-
-[Repository](https://github.com/palmdrop/BattleBoids)
 
 ***
 
 [Browse all repositories.](https://github.com/palmdrop?tab=repositories)
 
-### Contact and social media
+### :trumpet: Contact :trumpet:
 :computer: [Website](https://palmdrop.site)
 
-:mailbox_with_mail: [Email](mailto:anton@exlex.se)
+:seedling: [Are.na](https://are.na/palmdrop)
 
 :camera: [Instagram](https://www.instagram.com/palmdrop/)
+
+:mailbox_with_mail: [Email](mailto:anton@exlex.se)
