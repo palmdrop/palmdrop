@@ -1,4 +1,7 @@
-![Evergreen broth - banner image](/img/banner.png)
+<img 
+  src="https://raw.githubusercontent.com/palmdrop/palmdrop/main/img/banner.png" 
+  alt="Evergreen broth - banner image"
+/>
 
 I'm Anton Hildingsson, or *palmdrop*, swedish developer and generative artist. Feel free to scavange [my repositories](https://github.com/palmdrop?tab=repositories), or shoot me a message through one of the contact channels below.
 
