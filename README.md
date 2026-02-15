@@ -28,6 +28,6 @@ A web interface for building GLSL shaders based on noise and domain-warping.
 ## Contact
 [Website](https://palmdrop.site/nodes/contact)
 
-[Are.na](https://are.na/palmdrop)
+[Are.na](https://are.na/anton-hildingsson)
 
 [Email](mailto:anton@exlex.se)
