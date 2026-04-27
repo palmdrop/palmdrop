@@ -1,11 +1,4 @@
-<!--
-<img 
-  src="https://raw.githubusercontent.com/palmdrop/palmdrop/main/img/banner.png" 
-  alt="Evergreen broth - banner image"
-/>
--->
-
-I'm Anton Hildingsson. I develop and write and also other things. Steal my code, shoot me a message.
+I'm Anton Hildingsson. I write code.
 
 ## Featured projects
 
